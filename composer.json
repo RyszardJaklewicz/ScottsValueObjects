@@ -13,5 +13,7 @@
         }
     ],
     "minimum-stability": "beta",
-    "require": {}
+    "require": {
+        "scottkeckwarrenx/scottsvalueobjectsx": ">=1.0.0"
+    }
 }
