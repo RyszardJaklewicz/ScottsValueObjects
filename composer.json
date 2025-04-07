@@ -12,8 +12,8 @@
             "email": "jaklewicz.r@gmail.com"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "require": {
-        "scottkeckwarrenx/scottsvalueobjectsx": ">=1.0.0"
+        
     }
 }
