@@ -1,0 +1,17 @@
+{
+    "name": "scottkeckwarren/scottsvalueobjects",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Scottkeckwarren\\Scottsvalueobjects\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ryszard Jaklewicz",
+            "email": "jaklewicz.r@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
