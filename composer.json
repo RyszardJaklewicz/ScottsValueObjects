@@ -1,9 +1,9 @@
 {
-    "name": "scottkeckwarren/scottsvalueobjects",
+    "name": "scottkeckwarrenx/scottsvalueobjectsx",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Scottkeckwarren\\Scottsvalueobjects\\": "src/"
+            "Scottkeckwarrenx\\Scottsvalueobjectsx\\": "src/"
         }
     },
     "authors": [
